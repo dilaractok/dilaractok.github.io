@@ -2,3 +2,4 @@ google.com, pub-5697455483206675, DIRECT, f08c47fec0942fa0
 google.com, pub-9711617434932484, DIRECT, f08c47fec0942fa0
 unity.com, 138802444, DIRECT, 96cabb5fbdde37a7
 vungle.com, 6aca5c1bdc021dbec1ed542d, DIRECT, c107d686becd2d77
+inmobi.com, 3b7b691afca847779ba82704ae89d508, DIRECT, 83e75a7ae333ca9d
